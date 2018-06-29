@@ -4,7 +4,7 @@ requirements = open('requirements.txt', 'r').read().split("\n")
 
 setup(
     name='nif',
-    version='0.1dev',
+    version='profit-v15',
     packages=['nif'],
     license='MIT',
     install_requires=requirements,
